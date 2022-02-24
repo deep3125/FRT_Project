@@ -3,4 +3,5 @@ About 56 to 60 million people die each year due to various reasons. Many of them
 
 
 REFERENCES:
+
 Data From: https://ourworldindata.org/causes-of-death
